@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @cassbarr
+- 👀 I’m interested in video games 🎮 👾 
+- 🌱 I’m currently learning the basics of github
+- 💞️ I’m looking to collaborate with future classmates and colleagues
+- 📫 How to reach me ... 📱 
+![image](https://user-images.githubusercontent.com/108554650/178378839-91b31c3b-388f-479f-866f-7e98c876c478.png)
+
+<!---
+cassbarr/cassbarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
